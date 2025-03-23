@@ -22,7 +22,7 @@ The arrays we are merging are [1, 2, 3] and [2, 5, 6]. After merging, the result
 
 # How to Use
 ## 1. Clone the repository:
-git clone https://github.com/yourusername/merge-sorted-array.git
+git clone https://github.com/mrezamostafavi/merge-sorted-array.git
 cd merge-sorted-array
 ## 2. Run the script:
 python merge_sorted_array.py
