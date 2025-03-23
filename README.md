@@ -20,14 +20,6 @@ nums1 = [1, 2, 2, 3, 5, 6]
 ### Explanation
 The arrays we are merging are [1, 2, 3] and [2, 5, 6]. After merging, the result is [1, 2, 2, 3, 5, 6], and the merged array is stored in nums1.
 
-# How to Use
-## 1. Clone the repository:
-git clone https://github.com/mrezamostafavi/merge-sorted-array.git
-cd merge-sorted-array
-## 2. Run the script:
-python merge_sorted_array.py
-## 3. Input format:
-The program will ask for input of two arrays (nums1 and nums2) along with their respective lengths (m and n), and it will output the merged array.
 
 # Link to Problem
 You can view the original problem on LeetCode here: https://leetcode.com/problems/merge-sorted-array/
