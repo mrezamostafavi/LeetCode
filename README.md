@@ -4,8 +4,8 @@ Welcome to my repository! This repository contains my Python solutions to the To
 ## Repository Structure
 Each problem is organized into its own folder with the following structure:
 problem-name/
-├── solution.py    # Python solution
-└── README.md      # Problem description
+├── solution.py    
+└── README.md     
 
 ## Disclaimer
 These solutions are my personal interpretations and may not always represent the most optimal approach. Use them as a learning resource and feel free to suggest improvements.
