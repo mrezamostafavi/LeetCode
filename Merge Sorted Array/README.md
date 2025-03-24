@@ -11,9 +11,9 @@ The task is to merge `nums2` into `nums1` such that the final array is sorted in
 
 ## Example
 ### Input:
-nums1 = [1, 2, 3, 0, 0, 0]
-m = 3
-nums2 = [2, 5, 6]
+nums1 = [1, 2, 3, 0, 0, 0],
+m = 3,
+nums2 = [2, 5, 6],
 n = 3
 ### Output:
 nums1 = [1, 2, 2, 3, 5, 6]
