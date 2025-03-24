@@ -24,6 +24,8 @@ The arrays we are merging are [1, 2, 3] and [2, 5, 6]. After merging, the result
 # Link to Problem
 You can view the original problem on LeetCode here: https://leetcode.com/problems/merge-sorted-array/
 
+# Note
+This code includes some additional parts compared to the code I used on LeetCode.
 
 
 
