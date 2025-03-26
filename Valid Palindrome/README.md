@@ -1,6 +1,6 @@
 # Valid Palindrome
 
-This repository contains a Python implementation of the "Valid Palindrome" problem, commonly encountered in coding interviews and programming challenges. The solution merges two sorted integer arrays into a single sorted array in-place.
+This repository contains a Python implementation of the "Valid Palindrome" problem, commonly encountered in coding interviews and programming challenges.
 
 ## Problem Description
 
