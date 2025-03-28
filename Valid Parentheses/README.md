@@ -18,14 +18,6 @@ An input string is valid if:
 s = "()"
 ### Output:
 true
-### Explanation
-The ranges are:
-
-[0,2] --> "0->2",
-
-[4,5] --> "4->5",
-
-[7,7] --> "7"
 
 
 # Link to Problem
