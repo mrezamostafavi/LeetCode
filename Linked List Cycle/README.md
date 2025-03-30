@@ -14,8 +14,6 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 # Link to Problem
 You can view the original problem on LeetCode here: https://leetcode.com/problems/linked-list-cycle/
 
-# Note
-This code includes some additional parts compared to the code I used on LeetCode.
 
 
 
